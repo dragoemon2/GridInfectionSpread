@@ -1,5 +1,4 @@
 import numpy as np
-import networkx as nx
 
 def spread_lattice(start, m=2):
     """
